@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.dd367ff0.css",
-    "main.js": "/static/js/main.ed112813.js",
+    "main.css": "/static/css/main.f58093b2.css",
+    "main.js": "/static/js/main.fcfa059e.js",
     "static/js/648.eddd8655.chunk.js": "/static/js/648.eddd8655.chunk.js",
     "static/js/227.55729bc7.chunk.js": "/static/js/227.55729bc7.chunk.js",
     "static/js/258.3b43ac59.chunk.js": "/static/js/258.3b43ac59.chunk.js",
     "static/js/453.214eec71.chunk.js": "/static/js/453.214eec71.chunk.js",
     "static/media/bg.png": "/static/media/bg.cfc80743ba10b7522ee5.png",
     "static/media/win.svg": "/static/media/win.1f6fad5b22ea813227880a8f9d5463c8.svg",
+    "static/media/banner.jpg": "/static/media/banner.052b72d1f4768c907a62.jpg",
     "static/media/icon-coin1.svg": "/static/media/icon-coin1.5c606db90980efa5f9e380bc6a954831.svg",
     "static/media/logo.svg": "/static/media/logo.11ec52ae944f184b786ad60d448341a5.svg",
     "static/media/demo.png": "/static/media/demo.bdae65cc30522828474d.png",
@@ -31,15 +32,15 @@
     "static/media/icon-menu.svg": "/static/media/icon-menu.0b518b0aff08af34dda445020e44ae82.svg",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "static/media/icon-point.svg": "/static/media/icon-point.120d849dd86870056be6a118fba07078.svg",
-    "main.dd367ff0.css.map": "/static/css/main.dd367ff0.css.map",
-    "main.ed112813.js.map": "/static/js/main.ed112813.js.map",
+    "main.f58093b2.css.map": "/static/css/main.f58093b2.css.map",
+    "main.fcfa059e.js.map": "/static/js/main.fcfa059e.js.map",
     "648.eddd8655.chunk.js.map": "/static/js/648.eddd8655.chunk.js.map",
     "227.55729bc7.chunk.js.map": "/static/js/227.55729bc7.chunk.js.map",
     "258.3b43ac59.chunk.js.map": "/static/js/258.3b43ac59.chunk.js.map",
     "453.214eec71.chunk.js.map": "/static/js/453.214eec71.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd367ff0.css",
-    "static/js/main.ed112813.js"
+    "static/css/main.f58093b2.css",
+    "static/js/main.fcfa059e.js"
   ]
 }
